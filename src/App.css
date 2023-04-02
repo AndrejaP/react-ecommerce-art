@@ -92,4 +92,7 @@ body {
   .img-container {
     height: auto !important;
   }
+  .navbar-brand {
+  margin-left: 0 rem;
+}
 }
